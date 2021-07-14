@@ -2,7 +2,7 @@
 
 I'm Paulo! :wave:
 
-I'm an Internet Systems student at IFPB (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba), and currently working on some own projects.
+I'm an Internet Systems student at IFPB (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba), and currently I'm working on some own projects.
 
 Technologies I'm currently using:
   
